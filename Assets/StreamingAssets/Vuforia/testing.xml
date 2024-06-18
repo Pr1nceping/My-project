@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Snow_test2" size="20.000000 28.641115" />
+    <ImageTarget name="SNow_testing" size="50.000000 71.602791" />
+    <ImageTarget name="001_Daiyu_Baochai_10" size="10.000000 14.320558" />
+    <ImageTarget name="Yingchun10" size="10.000000 16.871922" />
+    <ImageTarget name="002Yingchun" size="574.000000 968.448303" />
+    <ImageTarget name="2" size="574.000000 574.000000" />
+    <ImageTarget name="1" size="574.000000 574.000000" />
+    <ImageTarget name="3" size="574.000000 574.000000" />
+    <ImageTarget name="4" size="574.000000 574.000000" />
+    <ImageTarget name="001_Daiyu_Baochai" size="574.000000 822.000000" />
+  </Tracking>
+</QCARConfig>
